@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 400" role="img" aria-labelledby="fadeTitle">
+  <title id="fadeTitle">Line drawing of a fade haircut. Illustration, not a photo.</title>
+  <rect width="320" height="400" fill="#16130f"/>
+  <g fill="none" stroke="#e7d3a1" stroke-width="2.2" stroke-linecap="round">
+    <path d="M118 92c8-36 78-48 108-18 22 22 28 58 24 92 18 8 34 28 36 52 2 28-16 52-40 62 4 38-8 78-40 98-34 22-78 18-104-8-22-22-30-54-24-86-28-12-46-40-42-70 4-26 24-46 46-54-2-28 8-52 36-68z"/>
+    <path d="M132 168c22-6 48-4 70 8"/>
+    <path d="M108 210c8 2 14 10 14 18"/>
+    <path d="M168 206c18 2 28 8 34 16"/>
+    <path d="M150 248c16 10 28 12 42 6"/>
+    <path d="M96 250c6 22 8 40 4 62"/>
+    <path d="M214 168c10 18 14 40 10 64"/>
+  </g>
+  <g fill="none" stroke="#c4312e" stroke-width="1.4" opacity="0.85">
+    <path d="M104 286c28 8 70 10 108-6"/>
+    <path d="M112 302c24 6 58 6 90-8"/>
+    <path d="M122 316c18 4 42 4 68-6"/>
+  </g>
+  <text x="24" y="372" fill="#a89880" font-family="Georgia, serif" font-size="13">Illustration — not a photo of their work</text>
+</svg>

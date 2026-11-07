@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 320" role="img" aria-labelledby="poleTitle">
+  <title id="poleTitle">Barber pole illustration</title>
+  <rect x="22" y="8" width="36" height="16" rx="3" fill="#2a241c"/>
+  <rect x="18" y="24" width="44" height="272" rx="22" fill="#1a1612"/>
+  <clipPath id="poleClip"><rect x="26" y="32" width="28" height="256" rx="14"/></clipPath>
+  <g clip-path="url(#poleClip)">
+    <rect x="26" y="32" width="28" height="256" fill="#f4efe6"/>
+    <g fill="#c4312e">
+      <polygon points="26,32 54,60 54,44 26,16"/>
+      <polygon points="26,76 54,104 54,88 26,60"/>
+      <polygon points="26,120 54,148 54,132 26,104"/>
+      <polygon points="26,164 54,192 54,176 26,148"/>
+      <polygon points="26,208 54,236 54,220 26,192"/>
+      <polygon points="26,252 54,280 54,264 26,236"/>
+    </g>
+    <g fill="#1d4e89">
+      <polygon points="26,54 54,82 54,66 26,38"/>
+      <polygon points="26,98 54,126 54,110 26,82"/>
+      <polygon points="26,142 54,170 54,154 26,126"/>
+      <polygon points="26,186 54,214 54,198 26,170"/>
+      <polygon points="26,230 54,258 54,242 26,214"/>
+    </g>
+  </g>
+  <rect x="22" y="292" width="36" height="16" rx="3" fill="#2a241c"/>
+</svg>

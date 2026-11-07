@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" role="img" aria-labelledby="chairTitle chairDesc">
+  <title id="chairTitle">Barber chair drawing</title>
+  <desc id="chairDesc">A side view of a barber chair in cream, red and dark metal. A demo drawing, not a photo of the shop.</desc>
+  <rect width="400" height="480" fill="#1c2428"/>
+  <rect x="36" y="400" width="328" height="8" fill="#f3ebdd" opacity="0.35"/>
+  <ellipse cx="200" cy="392" rx="54" ry="10" fill="#2a3338"/>
+  <rect x="176" y="300" width="48" height="92" fill="#c5ced1"/>
+  <rect x="188" y="300" width="24" height="92" fill="#e7ebec"/>
+  <circle cx="200" cy="392" r="16" fill="#8e1a24"/>
+  <path d="M118 268 h164 v48 h-164 z" fill="#f3ebdd"/>
+  <path d="M128 248 h144 v28 h-144 z" fill="#8e1a24"/>
+  <path d="M250 150 v130 h28 v-96 c0-28-12-40-28-34 z" fill="#f3ebdd"/>
+  <path d="M146 118 h92 v150 h-28 V150 h-64 z" fill="#f3ebdd"/>
+  <rect x="138" y="108" width="108" height="22" fill="#8e1a24"/>
+  <path d="M96 196 c18 8 28 28 28 52 v20 h-36 v-28 c0-18-6-32-18-40 z" fill="#e2b423"/>
+  <path d="M70 250 h70 v8 H78 z" fill="#c5ced1"/>
+</svg>

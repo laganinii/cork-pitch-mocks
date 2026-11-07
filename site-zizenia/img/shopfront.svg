@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="shopTitle shopDesc">
+  <title id="shopTitle">Shopfront drawing</title>
+  <desc id="shopDesc">A cream fascia with the word zizenia in red, a dark glass window, door number 107, and a yellow call card. Demo drawing based on the Google Maps storefront, not a photograph.</desc>
+  <rect width="800" height="520" fill="#1c2428"/>
+  <rect x="70" y="36" width="660" height="150" fill="#f3ebdd" stroke="#2a3338" stroke-width="14"/>
+  <text x="400" y="132" text-anchor="middle" font-family="Georgia, 'Palatino Linotype', serif" font-size="78" fill="#8e1a24">zizenia</text>
+  <rect x="70" y="186" width="660" height="250" fill="#243036" stroke="#2a3338" stroke-width="14"/>
+  <rect x="96" y="208" width="608" height="206" fill="none" stroke="#f3ebdd" stroke-opacity="0.28"/>
+  <rect x="96" y="208" width="72" height="40" fill="#f3ebdd"/>
+  <text x="132" y="236" text-anchor="middle" font-family="Impact, 'Arial Narrow', sans-serif" font-size="22" fill="#1c2428">107</text>
+  <g transform="rotate(-2 400 310)">
+    <rect x="300" y="250" width="200" height="110" fill="#e2b423"/>
+    <text x="400" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1c2428">Call to book</text>
+    <text x="400" y="332" text-anchor="middle" font-family="Impact, 'Arial Narrow', sans-serif" font-size="28" fill="#1c2428">021 422 2828</text>
+  </g>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#f3ebdd">Oliver Plunkett Street, Cork</text>
+</svg>
